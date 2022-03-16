@@ -17,11 +17,13 @@
     * values determine the specific direction the vehicle will be controlled in. range of x and y values are set for the basic motor functions
 * lever
     * lever toggles Go() function
-       * moves around by itself
-       * joystick values ignored when Go()
-       * autostop still works :)
+       * If switch yields a value of 0, follow the joystick
+       * If switch yields a value of 1, activate Go() function
+       * autostop still works
 * button
     * if button is pressed --> dance function
+       * delay 2 seconds to wait until one cycle of dance ends before a new cycle begins
+       * If butten is not pressed, do nothing
 
 
 ## bluetooth
