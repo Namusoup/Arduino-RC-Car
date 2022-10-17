@@ -30,3 +30,7 @@
 * input values sent from controller to rc car for it to perform a specific fucntion
 * if joystick is in certain range, input1 = something input 2 = something --> corresponding one is found in the rc car code to perform a set function
 * values also asigned for special functions
+
+## Test video
+Basic control
+![1 gifgifgifgif](https://user-images.githubusercontent.com/47979979/196147836-0ba2c617-93f8-49d0-898f-80fa639ae6bf.gif)
