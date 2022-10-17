@@ -32,17 +32,17 @@
 * values also asigned for special functions
 
 ## Test video
-Basic control  
+### Basic control  
 ![1 gifgifgifgif](https://user-images.githubusercontent.com/47979979/196147836-0ba2c617-93f8-49d0-898f-80fa639ae6bf.gif)
 
 
-Avoding crash  
+### Avoding crash  
 ![2 gif](https://user-images.githubusercontent.com/47979979/196149101-cebd481a-ef3c-451c-b307-4529b8221acd.gif)
 
 
-Dance    
+### Dance    
 ![3 gif](https://user-images.githubusercontent.com/47979979/196149141-4cac788a-dc9b-4ecd-9626-9ada13f30c2e.gif)
 
 
-Go (Autopilot)    
+### Go (Autopilot)    
 ![4 gif](https://user-images.githubusercontent.com/47979979/196149179-790070ab-9819-4e92-986e-c7897ccfef95.gif)
